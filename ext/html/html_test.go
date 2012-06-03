@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"net/url"
 	"net/http/httptest"
-	"github.com/elazarl/goproxy"
-	"github.com/elazarl/goproxy/ext/html"
+	"github.com/lugu/goproxy"
+	"github.com/lugu/goproxy/ext/html"
 )
 
 type ConstantServer int

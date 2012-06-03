@@ -15,8 +15,8 @@ import "net/http/httptest"
 import "net/url"
 import "os"
 import "testing"
-import . "github.com/elazarl/goproxy"
-import "github.com/elazarl/goproxy/ext/image"
+import . "github.com/lugu/goproxy"
+import "github.com/lugu/goproxy/ext/image"
 
 var _ = bufio.ErrBufferFull
 var _ = base64.StdEncoding

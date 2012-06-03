@@ -1,7 +1,7 @@
 // extension to goproxy that will allow you to easily filter web browser related content.
 package goproxy_html
 
-import ("github.com/elazarl/goproxy"
+import ("github.com/lugu/goproxy"
 	"net/http"
 	"errors"
 	"bytes"

@@ -8,7 +8,7 @@ import (
 	"image/png"
 	"io/ioutil"
 	"net/http"
-	. "github.com/elazarl/goproxy"
+	. "github.com/lugu/goproxy"
 )
 
 var RespIsImage = ContentTypeIs("image/gif",
